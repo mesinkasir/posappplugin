@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Build Modern Web App with get axcora cms
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/posappplugin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### PLugins point of sale online apps for get axcora cms
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a plugin for build modern web app, website and application all in one for support and help your bussiness transaction.
 
-### Markdown
+Simple and easy to use and learn.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![point of sale source code free download plugin for get axcora cms](https://a.fsdn.com/con/app/proj/pointofsaleapp/screenshots/freepointofsaleapp.png/max/max/1)
 
-```markdown
-Syntax highlighted code block
+Make fast cashier transaction with this apps, automaticly calculate order .
 
-# Header 1
-## Header 2
-### Header 3
+Point of sale display with Image product make elegant for your pos display apps, and including get axcora cms for build your new modern website, get axcora cms web app make simple for build modern web app.
 
-- Bulleted
-- List
+How to install :
+Just download this apps and upload on your host or localhost then visit this apps , and get started now.
 
-1. Numbered
-2. List
+Documentation :
+[https://axcora.com/getaxcoracms/index.php?id=free-point-of-sale-app-download](https://axcora.com/getaxcoracms/index.php?id=free-point-of-sale-app-download)
 
-**Bold** and _Italic_ and `Code` text
+Demo video :
+[https://youtu.be/1XRO8qIbGy0](https://youtu.be/1XRO8qIbGy0)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/posappplugin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Download Get axcora cms here →](https://axcora.com/getaxcoracms)
